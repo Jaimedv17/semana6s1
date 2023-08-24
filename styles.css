@@ -13,16 +13,16 @@
   text-decoration: none;
 }
 
-.navigation-list {
+.Navigation-List {
   display: flex;
   width: 50%;
   border: 2px solid green;
   justify-content: space-evenly;
 }
-.navigation-item {
+.Navigation-Item {
   list-style: none;
 }
-.navigation-link {
+.Navigation-Link {
   text-decoration: none;
 }
 

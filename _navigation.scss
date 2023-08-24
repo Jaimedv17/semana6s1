@@ -18,19 +18,19 @@
 }
 
 
-.navigation{
-    &-list{
+.Navigation{
+    &-List{
         display: flex;
         width: 50%;
         border: 2px solid green;
         justify-content: space-evenly;
     }
 
-    &-item{
+    &-Item{
         list-style: none;
     }
 
-    &-link{
+    &-Link{
         text-decoration: none;
     }
 }
