@@ -1,0 +1,36 @@
+.navigation{
+    &__list{
+        display: flex;
+        margin-bottom: 5rem;
+        margin-top: 5rem;
+        width: 50%;
+        border: 3px solid red;
+        justify-content: space-evenly;
+    }
+
+    &__item{
+        list-style: none;
+    }
+
+    &__link{
+        text-decoration: none;
+    }
+}
+
+
+.navigation{
+    &-list{
+        display: flex;
+        width: 50%;
+        border: 2px solid green;
+        justify-content: space-evenly;
+    }
+
+    &-item{
+        list-style: none;
+    }
+
+    &-link{
+        text-decoration: none;
+    }
+}
